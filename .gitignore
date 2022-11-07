@@ -1,0 +1,8 @@
+/lab03-2021/
+/lab04-2021/
+*.class
+*.bin
+*.lock
+bin/
+build/
+.gradle/
